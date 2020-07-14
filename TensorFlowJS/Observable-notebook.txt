@@ -1,0 +1,2 @@
+The Observable notebook used in the TensorFlow.js broadcasting episode can be found here:
+https://beta.observablehq.com/d/c3b4f4ecafe996b7
